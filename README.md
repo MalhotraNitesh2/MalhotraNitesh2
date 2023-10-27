@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a Frontend Developer<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with Frontend Jobs<br>🌱 I’m currently learning React, Angular<br>⚡ Reach me at niteshmalhotra00@gmail.com
+🔭 I’m currently working on becoming a IOS Developer<br>👯 I’m looking to collaborate on Frontend Projects<br>🤝 I’m looking for help with Frontend Jobs<br>🌱 I’m currently learning React, Angular<br>⚡ Reach me at niteshmalhotra00@gmail.com
 
 
 ## 🌐 Socials:
